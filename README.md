@@ -1,2 +1,2 @@
 # ProyectoConjunto_IMartinez_DChavez
-In these repository i will gather all the notebooks of my financial simulation class
+Aquí vas a poner los notebook de jupyter para la clase de Simulación de procesos.
